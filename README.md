@@ -14,8 +14,8 @@ Office hours: 3-5pm Fridays
 Advanced topics: certifying and explaining AI software, program repair and synthesis
 
 ## Tentative Schedule ##
-### week 1: syllabus, finding bugs, survey assignment and github setup
-### week 2: find bugs
+week 1: syllabus, finding bugs, survey assignment
+week 2: finding bugs
 
 ## Acknowledgement ##
 This course is developed under the support of the National Science Foundation (NSF) under <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1542117">Award 1542117
