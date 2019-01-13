@@ -1,6 +1,6 @@
 &nbsp;
 
-# <span style="color:red"> COM S 413x, COM S/CPR E 513x: Foundations and Applications of Program Analysis</span> #
+# COM S 413x, COM S/CPR E 513x @ Iowa State University Foundations and Applications of Program Analysis (Spring 2019) #
 
 &nbsp;
 
