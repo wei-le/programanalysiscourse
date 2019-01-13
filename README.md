@@ -9,15 +9,6 @@ Wei Le (weile@iastate.edu), Atanasoff 210
 
 Office hours: 3-5pm Fridays
 
-
-## Course Work and Evaluation ##
-
-1.Survey (10%)
-
-2.Homework (60%)  
-
-3.Final Project (30%)
-
 ## Topics ##
 1. finding bugs
 2. analyzing software changes and versions
