@@ -2,6 +2,7 @@
 
 ## Instructor ## 
 Wei Le (weile@iastate.edu), Atanasoff 210
+
 Office hours: 3-5pm Fridays
 
 ## Topics ##
@@ -15,6 +16,7 @@ Advanced topics: certifying and explaining AI software, program repair and synth
 
 ## Tentative Schedule ##
 week 1: syllabus, finding bugs, survey assignment
+
 week 2: finding bugs
 
 ## Acknowledgement ##
