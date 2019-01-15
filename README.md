@@ -14,7 +14,7 @@ weeks 6-7: automatic test input generation (symbolic execution, fuzzing)
 
 weeks 8-9: debugging (dependency analysis, slicing, delta-debugging)
 
-weeks 10-11: specification inference (invariants, precondition, postcondition, typestate)
+weeks 10-11: specification inference (dynamic analysis, invariants, precondition, postcondition, typestate)
 
 weeks 12-13: analyzing software changes and versions (mvicfg, differential analysis, testing and debugging, change contract)
 
