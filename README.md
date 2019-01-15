@@ -10,17 +10,17 @@ week 1: syllabus, survey assignment, finding bugs
 
 weeks 2-4: finding bugs (control flow graphs, dataflow analysis, pointer analysis, interprocedural analysis)
 
-weeks 6-7: automatic test input generation (symbolic execution, fuzzing)
+weeks 5-6: automatic test input generation (symbolic execution, fuzzing)
 
-weeks 8-9: debugging (dependency analysis, slicing, delta-debugging)
+weeks 7-8: debugging (dependency analysis, slicing, delta-debugging)
 
-weeks 10-11: specification inference (dynamic analysis, invariants, precondition, postcondition, typestate)
+weeks 9-10: specification inference (dynamic analysis, invariants, precondition, postcondition, typestate)
 
-weeks 12-13: analyzing software changes and versions (mvicfg, differential analysis, testing and debugging, change contract)
+weeks 11-12: analyzing software changes and versions (mvicfg, differential analysis, testing and debugging, change contract)
 
-week 14: big code analysis
+week 13: big code analysis
 
-week 15: advanced topics: certifying and explaining AI software, program repair and synthesis
+weeks 14-15: advanced topics: certifying and explaining AI software, program repair and synthesis
 
 ## Acknowledgment ##
 This course is developed under the support of the National Science Foundation (NSF) under <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1542117">Award 1542117
