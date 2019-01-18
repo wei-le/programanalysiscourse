@@ -5,17 +5,22 @@ Wei Le (weile@iastate.edu), Atanasoff 210
 
 Office hours: 3-5pm Fridays
 
-## Topics ##
-1. finding bugs
-2. analyzing software changes and versions
-3. automatic test input generation
-4. debugging
-5. specification inference
-6. big code analysis
-Advanced topics: certifying and explaining AI software, program repair and synthesis
+## Tentative Schedule and Topics ##
+week 1: syllabus, survey assignment, finding bugs
 
-## Tentative Schedule ##
+weeks 2-4: finding bugs (control flow graphs, dataflow analysis, pointer analysis, interprocedural analysis)
 
-### week 1: syllabus, finding bugs, survey assignment and github setup
+weeks 5-6: automatic test input generation (symbolic execution, fuzzing)
 
-### week 2: find bugs
+weeks 7-8: debugging (dependency analysis, slicing, delta-debugging)
+
+weeks 9-10: specification inference (dynamic analysis, invariants, precondition, postcondition, typestate)
+
+weeks 11-12: analyzing software changes and versions (mvicfg, differential analysis, testing and debugging, change contract)
+
+week 13: big code analysis
+
+weeks 14-15: advanced topics: certifying and explaining AI software, program repair and synthesis
+
+## Acknowledgment ##
+This course is developed under the support of the National Science Foundation (NSF) under <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1542117">Award 1542117
