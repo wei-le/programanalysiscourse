@@ -6,7 +6,7 @@ Wei Le (weile@iastate.edu), Atanasoff 210
 Office hours: 3-5pm Fridays
 
 ## Tentative Schedule and Topics ##
-week 1: syllabus, survey assignment, finding bugs
+week 1: syllabus, survey assignment, finding bugs (everything about bugs)
 
 weeks 2-4: finding bugs (control flow graphs, dataflow analysis, pointer analysis, interprocedural analysis)
 
