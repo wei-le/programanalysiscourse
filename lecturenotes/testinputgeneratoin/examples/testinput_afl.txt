@@ -1,5 +1,0 @@
-using hexdump -C binaryfile
-
-left column is the address of the first byte of the line, in hex. 
-middle column is the bytes, 16 bytes per line.  
-right column is text for the bytes, if printable.
