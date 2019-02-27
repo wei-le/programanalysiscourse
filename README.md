@@ -12,7 +12,7 @@ weeks 2-4: finding bugs (control flow graphs, dataflow analysis, pointer analysi
 
 weeks 5-6: automatic test input generation (symbolic execution, fuzzing)
 
-weeks 7-8: debugging (dependency analysis, slicing, delta-debugging)
+weeks 7-8: debugging and fault localization (dependency analysis, slicing, delta-debugging)
 
 weeks 9-10: specification inference (dynamic analysis, invariants, precondition, postcondition, typestate)
 
