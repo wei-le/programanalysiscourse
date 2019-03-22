@@ -20,7 +20,7 @@ weeks 11-12: specification inference (dynamic analysis, invariants, precondition
 
 week 13: big code analysis
 
-weeks 14-15: advanced topics: certifying and explaining AI software, program repair and synthesis
+weeks 14-15: advanced topics: certifying and explaining AI software (abstract intepretation), program repair and synthesis
 
 ## Acknowledgment ##
 This course is developed under the support of the National Science Foundation (NSF) under <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1542117">Award 1542117
