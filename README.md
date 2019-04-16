@@ -16,11 +16,11 @@ weeks 7-8: debugging and fault localization (dependency analysis, slicing, delta
 
 week 9: project recap, midterm catchup 
 
-weeks 10-11: analyzing software changes and versions (mvicfg, differential analysis, testing and debugging, change contract)
+weeks 10-11: analyzing software changes and versions (mvicfg, differential analysis, testing and debugging changes, change contract)
 
 weeks 12-13: specification inference (dynamic analysis, invariants, precondition, postcondition, typestate)
 
-weeks 14-15: advanced topics: big code analysis, certifying and explaining AI software (abstract intepretation), program repair and synthesis
+weeks 14-15: advanced topics: big code analysis, certifying and analyzing AI software (abstract intepretation), program repair and synthesis
 
 ## Acknowledgment ##
 This course is developed under the support of the National Science Foundation (NSF) under <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1542117">Award 1542117
