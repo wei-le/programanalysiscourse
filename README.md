@@ -14,7 +14,7 @@ weeks 5-6: automatic test input generation (symbolic execution, fuzzing)
 
 weeks 7-8: debugging and fault localization (dependency analysis, slicing, delta-debugging)
 
-week 9: project recap, midterm catchup 
+week 9: homework recap, midterm catchup 
 
 weeks 10-11: analyzing software changes and versions (mvicfg, differential analysis, testing and debugging changes, change contract)
 
