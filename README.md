@@ -1,4 +1,4 @@
-# COM S 413, COM S/CPR E 513 @ Iowa State University Foundations and Applications of Program Analysis (Spring 2019) #
+# COM S 413, COM S/CPR E 513 @ Iowa State University Foundations and Applications of Program Analysis #
 
 ## Instructor ## 
 Wei Le (weile@iastate.edu), Atanasoff 210
