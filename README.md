@@ -16,7 +16,7 @@ Office hours: 4-5pm Mondays Spring 2020
 
 5. specification inference (dynamic analysis, invariants, typestate)
 
-6. big code analysis 
+6. big code analysis (apply program analysis to reduce software engineering problems to machine learning)
 
 7. analyzing AI software (abstract intepretation)
 
