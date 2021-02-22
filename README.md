@@ -16,9 +16,9 @@ Office hours: 4-5:30pm Thursdays Spring 2021, iastate.webex.com/meet/weile
 
 5. specification inference (dynamic analysis, invariants, typestate)
 
-6. big code analysis (apply program analysis to reduce software engineering problems to machine learning)
+6. big code analysis (code embedding, code search, machine learning for code)
 
-7. analyzing AI software (abstract intepretation)
+7. analyzing and testing AI software (SE for ML)
 
 ## Acknowledgment ##
 This course is developed under the support of the National Science Foundation (NSF) under <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1542117">Award 1542117
