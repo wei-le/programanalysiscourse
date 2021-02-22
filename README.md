@@ -1,12 +1,12 @@
 # COM S 413/513 and CPR E 513 @ Iowa State University Foundations and Applications of Program Analysis #
 
 ## Instructor ## 
-Wei Le (weile@iastate.edu), Atanasoff 210, iastate.webex.com/meet/weile
+Wei Le (weile@iastate.edu), Atanasoff 210
 
-Office hours: 4-5:30pm Thursdays Spring 2021
+Office hours: 4-5:30pm Thursdays Spring 2021, iastate.webex.com/meet/weile
 
 ## Tentative Schedule and Topics ##
-1. finding bugs (control flow graphs, dataflow analysis, pointer analysis, interprocedural analysis)
+1. finding bugs (control flow analysis, dataflow analysis, pointer analysis, interprocedural analysis, abstract interpretation)
 
 2. automatic test input generation (symbolic execution, fuzzing)
 
