@@ -3,22 +3,22 @@
 ## Instructor ## 
 Wei Le (weile@iastate.edu), Atanasoff 210
 
-Office hours: 4-5:30pm Thursdays Spring 2021, iastate.webex.com/meet/weile
+Office hours: 1:30-2:30pm Fall 2022, Atansoff 210, iastate.webex.com/meet/weile (both in person and online)
 
 ## Tentative Schedule and Topics ##
-1. finding bugs (control flow analysis, dataflow analysis, pointer analysis, interprocedural analysis, abstract interpretation)
+1. finding bugs (control flow analysis, dataflow analysis, interprocedural analysis, abstract interpretation)
 
 2. automatic test input generation (symbolic execution, fuzzing)
 
 3. debugging and repair (dependency analysis, slicing, delta-debugging, search based algorithms)
 
-4. analyzing software changes and versions (mvicfg, differential analysis, testing and debugging changes, change contract)
+4. analyzing software changes and versions (patch verification and testing, differential testing, version compatibility)
 
-5. specification inference (dynamic analysis, invariants, typestate)
+5. specification and inference (dynamic analysis, invariants, typestate)
 
-6. big code analysis (code embedding, code search, machine learning for code)
+6. AI for code (representation learning, applications such as clone detection, code search, bug detection)
 
-7. analyzing and testing AI software (SE for ML)
+7. analyzing and testing AI models 
 
 ## Acknowledgment ##
 This course is developed under the support of the National Science Foundation (NSF) under <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1542117">Award 1542117
