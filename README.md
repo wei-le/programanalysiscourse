@@ -3,7 +3,7 @@
 ## Instructor ## 
 Wei Le (weile@iastate.edu), Atanasoff 210
 
-Office hours: 1:30-2:30pm Fall 2022, Atansoff 210, iastate.webex.com/meet/weile (both in person and online)
+Office hours: 1:30-2:30pm Tuesdays Fall 2022, Atansoff 210, iastate.webex.com/meet/weile (both in person and online)
 
 ## Tentative Schedule and Topics ##
 1. finding bugs (control flow analysis, dataflow analysis, interprocedural analysis, abstract interpretation)
