@@ -21,4 +21,4 @@ Office hours: 1:30-2:30pm Tuesdays Fall 2022, Atansoff 210, iastate.webex.com/me
 7. analyzing and testing AI models 
 
 ## Acknowledgment ##
-This course is developed under the support of the National Science Foundation (NSF) under <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1542117">Award 1542117
+This course is developed under the support of the National Science Foundation (NSF) under <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1542117">Award 1542117</a> and <a href="https://nsf.gov/awardsearch/showAward?AWD_ID=1816352">Award 1816352</a>
