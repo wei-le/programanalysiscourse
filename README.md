@@ -3,7 +3,7 @@
 ## Instructor ## 
 Wei Le (weile@iastate.edu), Associate Professor, Iowa State University
 
-Office hours: 12:15-1:15pm Tuesdays, Atanasoff 210
+Office hours: 12:15-1:15pm Tue/Thur, Atanasoff 210
 
 ## Tentative Schedule and Topics ##
 
